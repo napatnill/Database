@@ -1,0 +1,1 @@
+I choose embedded document because this format can improve query performance so I can retrieve related data in a single query, reducing the need for joins.
